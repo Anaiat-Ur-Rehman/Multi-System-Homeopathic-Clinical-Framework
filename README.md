@@ -20,4 +20,4 @@ This repository showcases a structured collection of multi-system clinical case 
 * Dataset Formatting (JSON) & Quality Assurance (QA)
 
 ---
-*Maintained by an experienced Clinical Practitioner & AI Data Specialist.*
+*Maintained by **Homeopathic Dr. Anaiat Ur Rehman** (Clinical Practitioner & AI Data Specialist).*
